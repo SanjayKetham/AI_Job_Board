@@ -1,0 +1,6 @@
+{
+  "name": "CareerConnect AI",
+  "description": "An advanced full-stack job portal featuring real-time application tracking, AI skill-based matching, and custom profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
